@@ -1,0 +1,6 @@
+framework module ReplaceNull {
+  umbrella header "ReplaceNull.h"
+
+  export *
+  module * { export * }
+}
